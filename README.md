@@ -1,2 +1,2 @@
 # TheBoilerPlate
-This repository contains boiler plate for Revit Dynamo (Python Node).
+This repository contains of a boiler plate for Revit Dynamo (Python Node) with comments.
